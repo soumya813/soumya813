@@ -1,4 +1,5 @@
-### Hi there 👋
+Hello World 👋
+My name is Soumya Srivastav. I am currently a student at Vivekanada Institute of Professional Studies studying Bachelor of Technology (B. Tech) in Computer Science and Engineering.
 
 <!--
 **soumya813/soumya813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
