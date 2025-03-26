@@ -1,15 +1,14 @@
-<h2 align="center">Hello World 👋 My name is Soumya Srivastav.<h2/> <br>
+<h2 align="center">Hello World 👋 My name is Soumya Srivastav.</h2> <br>
 
 <h5>
-🎓 I'm a 3rd-year B.Tech CSE student passionate about building real-world solutions through code.  </br>
-💡 I love working on full-stack projects, solving DSA problems, and diving into machine learning and AI.  </br>
-🚀 Currently exploring: Interpretable Machine Learning, Smart Systems, and Human-Centered Design.  </br>
-💻 Tech Stack: MERN | Python | C++ | Tailwind | Java | MongoDB | Git & GitHub  </br>
-🎮 I'm also into game development and lead initiatives that blend creativity with code.  </br>
+🎓 I'm a 3rd-year B.Tech CSE student passionate about building real-world solutions through code. </br>
+💡 I enjoy working on full-stack web projects, solving DSA problems, and exploring the world of machine learning. </br>
+🚀 Currently diving into: Interpretable ML, impactful full-stack apps, and tech that makes life easier. </br>
+💻 Tech Stack: MERN | Python | C++ | Tailwind CSS | Java | MongoDB | Git & GitHub </br>
 
 ### 🌱 Always learning. Forever curious.
-Whether it's web dev, AI models, or hackathons — I'm all in!  
-Let’s build something awesome together 💬
+From web dev to AI experiments — I’m always building and growing.  
+Let’s connect and create something meaningful 💬
 </h5>
 
 
