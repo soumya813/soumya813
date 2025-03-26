@@ -1,20 +1,16 @@
 <h2 align="center">Hello World 👋 My name is Soumya Srivastav.<h2/> <br>
-<h5>I am currently a student at Vivekanada Institute of Professional Studies studying Bachelor of Technology (B. Tech) in Computer Science and Engineering.</h5>
 
-<!--
-**soumya813/soumya813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5>
+🎓 I'm a 3rd-year B.Tech CSE student passionate about building real-world solutions through code.  </br>
+💡 I love working on full-stack projects, solving DSA problems, and diving into machine learning and AI.  </br>
+🚀 Currently exploring: Interpretable Machine Learning, Smart Systems, and Human-Centered Design.  </br>
+💻 Tech Stack: MERN | Python | C++ | Tailwind | Java | MongoDB | Git & GitHub  </br>
+🎮 I'm also into game development and lead initiatives that blend creativity with code.  </br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Always learning. Forever curious.
+Whether it's web dev, AI models, or hackathons — I'm all in!  
+Let’s build something awesome together 💬
+</h5>
 
 
 ## 🌐 Socials:
