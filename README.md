@@ -17,7 +17,7 @@
   Let’s connect, collaborate, and code something cool. 🚀
 </p>
 
-<p align="center"><a href="[soumyasrivastav.dev](https://www.soumyasrivastav.dev/)">soumyasrivastav.dev</a></p>
+<p align="center"><a href="https://www.soumyasrivastav.dev/">soumyasrivastav.dev</a></p>
 
 
 ###
