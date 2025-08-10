@@ -4,7 +4,7 @@
 <h4 align="center">Crafting clean code & clever interfaces, one line at a time.</h4>
 
 <p align="center">
-  💻 <strong>3rd-year B.Tech CSE student</strong> with a knack for full-stack magic and clean user experiences.<br>
+  💻 <strong>4th-year B.Tech CSE student</strong> with a knack for full-stack magic and clean user experiences.<br>
   🛠️ Fluent in: <strong>MERN Stack | C++ | Python | Tailwind CSS | Java | Git & GitHub</strong><br>
   ⚡ Currently leveling up in systems, performance, and sleek UI flows.<br>
   🌐 Believer in tech that’s functional, beautiful, and user-first.
@@ -17,7 +17,7 @@
   Let’s connect, collaborate, and code something cool. 🚀
 </p>
 
-<p align="center"><a href="https://portfolio-soumya813s-projects.vercel.app/">Portfolio</a></p>
+<p align="center"><a href="soumyasrivastav.dev">soumyasrivastav.dev</a></p>
 
 
 ###
